@@ -1,0 +1,10 @@
+{
+  "name": "ipricegroup/standard-functions-php",
+  "description": "PHP default functions which might be missing from default php configuration",
+  "type": "library",
+  "autoload": {
+    "files": [
+      "http_build_url.php"
+    ]
+  }
+}
