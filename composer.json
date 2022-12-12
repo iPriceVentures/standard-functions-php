@@ -1,5 +1,5 @@
 {
-  "name": "ipricegroup/standard-functions-php",
+  "name": "ipriceventures/standard-functions-php",
   "description": "PHP default functions which might be missing from default php configuration",
   "type": "library",
   "autoload": {
